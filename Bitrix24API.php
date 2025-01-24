@@ -1,3 +1,4 @@
+<?php
 class Bitrix24API
 {
     private $webhookUrl;
