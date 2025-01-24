@@ -1,3 +1,5 @@
+<?php
+
 class TaskProcessor
 {
     private $api;
