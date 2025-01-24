@@ -1,3 +1,4 @@
+<?php
 // === Конфигурация ===
 // URL вебхука (замените на ваш)
 $webhookUrl = 'https://yourcompany.bitrix24.ru/rest/USER_ID/WEBHOOK_KEY/';
